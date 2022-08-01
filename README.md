@@ -1,6 +1,6 @@
 ## Olá, eu sou João Neto e este é o meu GitHub!
 
- <div align="space-between">
+ <div>
    <a href="https://github.com/joaoAndNeto">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoAndNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoAndNeto&layout=compact&langs_count=7&theme=dracula"/>
@@ -9,8 +9,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="João-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/B6ojUzQHOuXWQK9n6cpSRO1XaSUxYyZv4yJGbE0/">
-</div>
  
   ###
  
